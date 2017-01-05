@@ -1,5 +1,5 @@
 {
-  "name": "HK/cv",
+  "name": "hk/cv",
   "description": "CV generator for WEB applications based on Laravel framework.",
   "keywords": ["laravel", "cv"],
   "license": "MIT",
